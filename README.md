@@ -1,1 +1,1 @@
-# DSI7-Weekly-Projects
+# DSI-7-Projects
